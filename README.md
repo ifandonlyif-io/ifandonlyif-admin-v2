@@ -50,3 +50,4 @@ See [Configuration Reference](https://vitejs.dev/config/).
 2. 確認專案為有問題(spam)、確認專案為合格(verified)
    - 按鈕、彈跳視窗(再次確認)、敘述
 3. discord 帳號管理：管理哪些 discord 帳號可以使用這支 bot
+4. api 連結, api key 參數化，寫成設定檔
